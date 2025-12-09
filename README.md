@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF1E00&text=Ronit%20Maheshwari&height=120&fontSize=48&desc=Aspiring%20Machine%20Learning%20%26%20MLOps%20Engineer%20|%20Future%20F1%20AI%20Engineer&descAlignY=75&descSize=16" />
-</p>
+<h1 align="center">Hi, I am Ronit Maheshwari 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF1E00&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+in+Progress;MLOps+Learner+%7C+Cloud+%26+Deployment;AI+%2B+Motorsport+Dreamer;Turning+Data+into+Race-Winning+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=900&lines=Aspiring+Machine+Learning+Engineer;MLOps+Learner+%7C+Cloud+%26+Deployment;AI+%2B+Motorsport+Dreamer;Turning+Data+into+Race-Winning+Decisions" />
 </p>
 
 ---
@@ -92,8 +90,14 @@ My goal is to build **AI systems that directly impact on-track performance**.
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitmaheshwari6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-maheshwari-6b0363306)
+<p>
+  <a href="mailto:ronitmaheshwari6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
 
 ---
 
