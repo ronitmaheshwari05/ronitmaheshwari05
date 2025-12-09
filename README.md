@@ -6,50 +6,34 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Engineering (CSE) Student  
-- 🤖 Focused on **Machine Learning & MLOps**  
-- 🧠 Interested in **Deep Learning & Computer Vision**  
-- 🏎️ Dream Role: **AI / Data Engineer in Formula 1**  
-- 📊 Interested in **Telemetry, Strategy & Performance Optimization**  
-- ☁️ Exploring **Cloud, DevOps & Scalable AI Systems**
+<h2>👨‍💻 About Me</h2>
+<p style="font-size:18px; line-height:1.6;">
+🎓 <b>Computer Science Engineering (CSE) Student</b><br>
+🤖 Focused on <b>Machine Learning & MLOps</b><br>
+🧠 Interested in <b>Deep Learning & Computer Vision</b><br>
+🏎️ Dream Role: <b>AI / Data Engineer in Formula 1</b><br>
+📊 Into <b>Telemetry, Strategy & Performance Optimization</b><br>
+☁️ Exploring <b>Cloud, DevOps & Scalable AI Systems</b>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Programming
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
-
-### 📊 Machine Learning & Data Science
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
   <img src="https://skillicons.dev/icons?i=sklearn"/>
-</p>
-
-### 🧠 Deep Learning & Computer Vision
-<p>
   <img src="https://skillicons.dev/icons?i=tensorflow"/>
   <img src="https://skillicons.dev/icons?i=pytorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48"/>
-</p>
-
-### ⚙️ MLOps & DevOps
-<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=mlflow" />
-</p>
-
-### ☁️ Cloud
-<p>
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=azure" />
@@ -98,7 +82,6 @@ My goal is to build **AI systems that directly impact on-track performance**.
 ---
 
 ## 📫 Connect With Me
-
 <p>
   <a href="mailto:ronitmaheshwari6@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="42"/>
