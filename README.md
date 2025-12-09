@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Ronit Maheshwari 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=900&lines=Aspiring+Machine+Learning+Engineer;MLOps+Learner+%7C+Cloud+%26+Deployment;AI+%2B+Motorsport+Dreamer;Turning+Data+into+Race-Winning+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=900&lines=Aspiring+Machine+Learning+Engineer;MLOps+Learner+%7C+Cloud+%26+Deployment;Deep+Learning+%26+Computer+Vision;AI+%2B+Motorsport+Dreamer" />
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering (CSE) Student  
 - 🤖 Focused on **Machine Learning & MLOps**  
+- 🧠 Interested in **Deep Learning & Computer Vision**  
 - 🏎️ Dream Role: **AI / Data Engineer in Formula 1**  
 - 📊 Interested in **Telemetry, Strategy & Performance Optimization**  
 - ☁️ Exploring **Cloud, DevOps & Scalable AI Systems**
@@ -24,11 +25,19 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-### 📊 Machine Learning
+### 📊 Machine Learning & Data Science
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn"/>
+</p>
+
+### 🧠 Deep Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48"/>
 </p>
 
 ### ⚙️ MLOps & DevOps
@@ -92,10 +101,11 @@ My goal is to build **AI systems that directly impact on-track performance**.
 
 <p>
   <a href="mailto:ronitmaheshwari6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="42"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42"/>
   </a>
 </p>
 
