@@ -1,111 +1,100 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1E00&height=230&section=header&text=Ronit%20Maheshwari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20%26%20MLOps%20Engineer%20|%20Future%20F1%20AI%20Engineer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF1E00&text=Ronit%20Maheshwari&height=120&fontSize=48&desc=Aspiring%20Machine%20Learning%20%26%20MLOps%20Engineer%20|%20Future%20F1%20AI%20Engineer&descAlignY=75&descSize=16" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Ronit Maheshwari
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1E00&center=true&vCenter=true&width=900&lines=Aspiring+Machine+Learning+Engineer;Aspiring+MLOps+Engineer;Future+F1+AI+%26+Data+Engineer;Building+High-Performance+AI+Systems;Learning+%26+Growing+Every+Day" alt="Typing Animation" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF1E00&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+in+Progress;MLOps+Learner+%7C+Cloud+%26+Deployment;AI+%2B+Motorsport+Dreamer;Turning+Data+into+Race-Winning+Decisions" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 - 🎓 Computer Science Engineering (CSE) Student  
-- 🤖 Focused on **Machine Learning & MLOps**
-- 🏎️ Dream Role: **AI / ML Engineer in Formula 1**
-- 📊 Passionate about **Data, Performance Optimization & Telemetry Systems**
-- ☁️ Interested in **Cloud, DevOps & Scalable AI Pipelines**
-- 🌱 Always learning and improving
-- 🔍 Actively preparing for **ML, MLOps & AI Engineer roles**
+- 🤖 Focused on **Machine Learning & MLOps**  
+- 🏎️ Dream Role: **AI / Data Engineer in Formula 1**  
+- 📊 Interested in **Telemetry, Strategy & Performance Optimization**  
+- ☁️ Exploring **Cloud, DevOps & Scalable AI Systems**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1E00&height=80&section=footer"/>
+---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### 📊 Machine Learning & Data Science
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-
-### ⚙️ MLOps & DevOps
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![MLflow](https://skillicons.dev/icons?i=mlflow)
-
-### ☁️ Cloud Platforms
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Azure](https://skillicons.dev/icons?i=azure)
-
-<p align="center">
-🏁 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 🏁
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
+### 📊 Machine Learning
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+### ⚙️ MLOps & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=mlflow" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+---
+
 ## 🏎️ Why AI + Formula 1?
+Formula 1 is a **real-time data battlefield** where every millisecond matters:
+- Telemetry & sensor streams  
+- Tire & temperature modeling  
+- Weather & race strategy  
+- Driver performance analytics  
 
-Formula 1 is the **ultimate real-time data-driven sport**. Every race generates **millions of data points per second** from:
-
-- Car sensors & telemetry  
-- Tire degradation & temperature  
-- Aerodynamics & drag simulations  
-- Weather & track evolution  
-- Driver performance & braking patterns  
-
-Machine Learning & MLOps power:
-- 🧠 Race strategy optimization  
-- 📈 Telemetry & performance analysis  
+Machine Learning enables:
+- 🧠 Strategy optimization  
+- 📈 Performance prediction  
 - 🔧 Predictive maintenance  
-- 🛰️ Real-time model deployment during races  
+- 🚀 Real-time race decisions  
 
-💡 My goal is to build **race-critical AI systems** that directly influence lap time and performance.
+My goal is to build **AI systems that directly impact on-track performance**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FF1E00&center=true&vCenter=true&width=1000&lines=───────────────────────+🏎️+FULL+THROTTLE+MODE+───────────────────────" />
+---
 
-## 🏁 AI + Formula 1 Vision
-- Race strategy optimization  
-- Car performance analysis  
-- Telemetry & sensor analytics  
-- Predictive maintenance  
-- Aerodynamic simulation  
-- Real-time decision systems  
+## 🎯 Long-Term Vision
+- Become a **World-Class ML Engineer**  
+- Master **Production-grade MLOps**  
+- Work on **high-speed AI systems in motorsport**  
+- Join a **Formula 1 Team as an AI Engineer**
 
-My long-term goal is to work as a **Machine Learning Engineer in a Formula 1 Team** on **high-performance AI systems**.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF1E00&height=3&section=footer"/>
+---
 
 ## 📚 Future Learning Roadmap
 - Advanced Machine Learning Algorithms  
-- Deep Learning & Neural Networks  
-- Time-Series Analysis (Telemetry Data)  
-- End-to-End MLOps Pipelines  
+- Deep Learning  
+- Time-Series & Telemetry Data  
 - Model Deployment & Monitoring  
-- CI/CD for ML Systems  
-- Cloud-Based AI at Scale  
-- Performance Optimization with AI  
+- CI/CD for ML  
+- Scalable Cloud AI  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF1E00&height=3&section=footer"/>
+---
 
 ## 📄 Resume
-👉 **[View My Resume](https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk)**  
+🔗 **[View My Resume](https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1E00&height=60&section=footer"/>
+---
 
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitmaheshwari6@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-maheshwari-6b0363306)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## ⚡ Fun Fact
-> I am combining **AI + Speed + Data** to chase my dream of working in **Formula 1** 🏁🔥
+> ⚡ **“Blending AI, speed, and data to chase my Formula 1 dream.”** 🏁
