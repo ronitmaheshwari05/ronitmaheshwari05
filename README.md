@@ -33,7 +33,8 @@
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=mlflow" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42"/>
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=azure" />
