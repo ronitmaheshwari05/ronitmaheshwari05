@@ -18,7 +18,7 @@
 
 ---
 
-<h2 style="font-size:38px;">🛠️ Tech Stack</h2>
+<h2 style="font-size:38px;">🛠️ Technical Arsenal</h2>
 <p align="center" style="font-size:26px;">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=c" />
