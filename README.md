@@ -43,6 +43,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight)
+
 <h2 style="font-size:38px;">🎓 Education</h2>
 <p style="font-size:26px; line-height:2;">
 ✅ <b>JECRC University</b><br>
