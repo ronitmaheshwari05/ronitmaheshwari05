@@ -47,14 +47,8 @@
 
 ---
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=tokyonight"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit23997&" alt="ronit23997" /></p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmaheshwari05&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
