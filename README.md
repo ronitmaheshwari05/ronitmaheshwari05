@@ -42,8 +42,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitmaheshwari05&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmaheshwari05&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight)
 
 <h2 style="font-size:38px;">🎓 Education</h2>
 <p style="font-size:26px; line-height:2;">
