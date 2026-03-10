@@ -19,42 +19,47 @@
 ---
 
 <h2 style="font-size:38px;">🛠️ Technical Arsenal</h2>
-<p align="center" style="font-size:26px;">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
-  <img src="https://skillicons.dev/icons?i=sklearn"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow"/>
-  <img src="https://skillicons.dev/icons?i=pytorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="60"/>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=gcp" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
 
----
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=gcp"/>
+<img src="https://skillicons.dev/icons?i=azure"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmaheshwari05&layout=compact&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="60"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
 </p>
 
 ---
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmaheshwari05&layout=compact&theme=tokyonight"/>
+</p>
+
+---
 
 <h2 style="font-size:38px;">🎓 Education</h2>
+
 <p style="font-size:26px; line-height:2;">
 ✅ <b>JECRC University</b><br>
 ✅ <b>Bachelor of Technology (B.Tech)</b><br>
@@ -92,9 +97,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="120"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="120"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="120"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="120"/>
 </p>
 
 <p style="font-size:26px; line-height:2;">
@@ -107,74 +112,60 @@
 ---
 
 <h2 style="font-size:38px;">🏎️ Why AI + Formula 1?</h2>
+
 <p style="font-size:26px; line-height:2;">
-✅ Formula 1 is a <b>real-time data battlefield</b> where every millisecond matters.
+🔹 Telemetry & sensor streams<br>
+🔹 Tire & temperature modeling<br>
+🔹 Weather & race strategy<br>
+🔹 Driver performance analytics
 </p>
 
 <p style="font-size:26px; line-height:2;">
-🔹 <b>Telemetry & sensor streams</b><br>
-🔹 <b>Tire & temperature modeling</b><br>
-🔹 <b>Weather & race strategy</b><br>
-🔹 <b>Driver performance analytics</b>
+Machine Learning enables:
 </p>
 
 <p style="font-size:26px; line-height:2;">
-✅ Machine Learning enables:
-</p>
-
-<p style="font-size:26px; line-height:2;">
-🔹 <b>Strategy optimization</b><br>
-🔹 <b>Performance prediction</b><br>
-🔹 <b>Predictive maintenance</b><br>
-🔹 <b>Real-time race decisions</b>
-</p>
-
-<p style="font-size:26px; line-height:2;">
-✅ My goal is to build <b>AI systems that directly impact on-track performance</b>.
+🔹 Strategy optimization<br>
+🔹 Performance prediction<br>
+🔹 Predictive maintenance<br>
+🔹 Real-time race decisions
 </p>
 
 ---
 
 <h2 style="font-size:38px;">🎯 Long-Term Vision</h2>
-<p style="font-size:26px; line-height:2;">
-✅ <b>Become a World-Class ML Engineer</b><br>
-✅ <b>Master Production-grade MLOps</b><br>
-✅ <b>Work on High-speed AI Systems in Motorsport</b><br>
-✅ <b>Join a Formula 1 Team as an AI Engineer</b>
-</p>
 
----
-
-<h2 style="font-size:38px;">📚 Future Learning Roadmap</h2>
 <p style="font-size:26px; line-height:2;">
-✅ <b>Advanced Machine Learning Algorithms</b><br>
-✅ <b>Deep Learning</b><br>
-✅ <b>Time-Series & Telemetry Data</b><br>
-✅ <b>Model Deployment & Monitoring</b><br>
-✅ <b>CI/CD for ML</b><br>
-✅ <b>Scalable Cloud AI</b>
+✅ Become a World-Class ML Engineer<br>
+✅ Master Production-grade MLOps<br>
+✅ Work on High-speed AI Systems in Motorsport<br>
+✅ Join a Formula 1 Team as an AI Engineer
 </p>
 
 ---
 
 <h2 style="font-size:38px;">📄 Resume</h2>
-<p style="font-size:26px;">
-✅ <b><a href="https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk">View My Resume</a></b>
+
+<p>
+<a href="https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk">
+<b>View My Resume</b>
+</a>
 </p>
 
 ---
 
 <h2 style="font-size:38px;">📫 Connect With Me</h2>
+
 <p>
-  <a href="mailto:ronitmaheshwari6@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="65"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="65"/>
-  </a>
+<a href="mailto:ronitmaheshwari6@gmail.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="65"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="65"/>
+</a>
 </p>
 
 ---
 
-<p style="font-size:26px;"><b>⚡ “Blending AI, speed, and data to chase my Formula 1 dream.” 🏁</b></p>
+<p><b>⚡ “Blending AI, speed, and data to chase my Formula 1 dream.” 🏁</b></p>
