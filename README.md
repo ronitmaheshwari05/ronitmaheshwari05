@@ -47,9 +47,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=github-dark"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=dark&border_radius=10" />
 
 
 ---
