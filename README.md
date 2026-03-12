@@ -70,7 +70,7 @@
 ✅ <b>Machine Learning Operations (MLOps) Specialization</b><br>
 ✅ <b>Duke University</b> via <b>Coursera</b><br><br>
 
-🚦 <b>Status:</b> <span style="color:#e10600;"><b>Ongoing</b></span><br><br>
+🚦 <b>Status:</b> <span style="color:#e10600;"><b>Ongoing (Module 2)</b></span><br><br>
 
 ✅ <b>Focus Areas:</b><br>
 🔹 <b>Python for Machine Learning Operations</b><br>
