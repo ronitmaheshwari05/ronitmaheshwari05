@@ -9,7 +9,7 @@
 <h2 style="font-size:38px;">👨‍💻 About Me</h2>
 <p style="font-size:26px; line-height:2;">
 ✅ <b>Computer Science Engineering (CSE) Student</b><br>
-✅ Focused on <b>Machine Learning & MLOps (Machine Learning Operations)</b><br>
+✅ Focused on <b>Machine Learning & MLOps (Machine Learning Operations Specialization)</b><br>
 ✅ Interested in <b>Deep Learning & Computer Vision</b><br>
 ✅ Dream Role: <b>AI / Data Engineer in Formula 1</b><br>
 ✅ Passionate about <b>Telemetry, Strategy & Performance Optimization</b><br>
