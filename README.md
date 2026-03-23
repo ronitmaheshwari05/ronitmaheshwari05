@@ -26,13 +26,10 @@
 <img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=sklearn"/>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://skillicons.dev/icons?i=aws"/>
 <img src="https://skillicons.dev/icons?i=gcp"/>
-<img src="https://skillicons.dev/icons?i=azure"/>
 </p>
 
 <p align="center">
