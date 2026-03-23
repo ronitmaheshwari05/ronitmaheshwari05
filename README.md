@@ -18,50 +18,25 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 style="font-size:38px;">🛠️ Technical Arsenal</h2>
 
----
-
-### 💻 Languages & Core Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
-  <img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=gcp"/>
 </p>
 
----
-
-### 📊 Data Science & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
-</p>
-
----
-
-### 🤖 Machine Learning / Deep Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="60"/>
-</p>
-
----
-
-### ⚙️ MLOps & Tools
-<p align="center">
-  <img src="https://cdn.simpleicons.org/mlflow" width="60"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-</p>
-
----
-
-### ☁️ Cloud & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws"/>
-  <img src="https://skillicons.dev/icons?i=gcp"/>
-  <img src="https://cdn.simpleicons.org/kaggle" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="60"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="60"/>
 </p>
 
 <div align="center">
