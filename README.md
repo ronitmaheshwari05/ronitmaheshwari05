@@ -1,161 +1,136 @@
-<h1 align="center" style="font-size:48px;">Hi, I am Ronit Maheshwari 👋</h1>
+<h1 align="center">Hi 👋, I'm Ronit Maheshwari</h1>
+<h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=1000&lines=Aspiring+Machine+Learning+Engineer;MLOps+Learner+%7C+Cloud+%26+Deployment;Deep+Learning+%26+Computer+Vision;AI+%2B+Motorsport+Dreamer" />
-</p>
-
----
-
-<h2 style="font-size:38px;">👨‍💻 About Me</h2>
-<p style="font-size:26px; line-height:2;">
-✅ <b>Computer Science Engineering (CSE) Student</b><br>
-✅ Focused on <b>Machine Learning & MLOps (Machine Learning Operations Specialization)</b><br>
-✅ Interested in <b>Deep Learning & Computer Vision</b><br>
-✅ Dream Role: <b>AI / Data Engineer in Formula 1</b><br>
-✅ Passionate about <b>Telemetry, Strategy & Performance Optimization</b><br>
-✅ Exploring <b>Cloud, DevOps, DataOps & Scalable AI Systems</b>
-</p>
-
----
-
-<h2 style="font-size:38px;">🛠️ Technical Arsenal</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=gcp"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Python+Developer;Building+Real+World+Projects;Exploring+Deep+Learning;Cloud+%26+MLOps+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
-<img src="https://cdn.simpleicons.org/huggingface" width="60"/>
-<img src="https://cdn.simpleicons.org/mlflow" width="60"/>
-</p>
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ronitmaheshwari05&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-
-</div>
-
-
----
-
-<h2 style="font-size:38px;">🎓 Education</h2>
-
-<p style="font-size:26px; line-height:2;">
-✅ <b>JECRC University</b><br>
-✅ <b>Bachelor of Technology (B.Tech)</b><br>
-✅ <b>Computer Science Engineering (AI & ML – IBM)</b><br>
-✅ <b>2024 – Present</b>
-</p>
-
----
-
-<h2 style="font-size:38px;">🏁 Certification</h2>
-
-<div style="border:4px solid #e10600; border-radius:20px; padding:30px; font-size:26px; line-height:2;">
-
-✅ <b>Machine Learning Operations (MLOps) Specialization</b><br>
-✅ <b>Duke University</b> via <b>Coursera</b><br><br>
-
-🚦 <b>Status:</b> <span style="color:#e10600;"><b>Ongoing (Module 2)</b></span><br><br>
-
-✅ <b>Focus Areas:</b><br>
-🔹 <b>Python for Machine Learning Operations</b><br>
-🔹 <b>DevOps for ML Systems</b><br>
-🔹 <b>DataOps & Automated Data Pipelines</b><br>
-🔹 <b>MLOps (Machine Learning Operations)</b><br>
-🔹 <b>Experiment Tracking & Deployment with MLflow</b><br>
-🔹 <b>Hugging Face for Model Hosting, NLP & Inference</b>
-
-</div>
-
----
-
-<h2 style="font-size:38px;">⚙️ Kubernetes & CI/CD Pipelines</h2>
-
-<p style="font-size:26px; line-height:2;">
-✅ These tools power <b>real-time, scalable, and production-grade ML systems</b> used in environments like <b>Formula 1</b>.
+  <img src="https://komarev.com/ghpvc/?username=ronitmaheshwari05&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="120"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="120"/>
-</p>
-
-<p style="font-size:26px; line-height:2;">
-🔹 <b>Kubernetes for container orchestration & scalable ML deployment</b><br>
-🔹 <b>GitHub Actions for CI/CD automation</b><br>
-🔹 <b>Automated testing, model versioning & rollout</b><br>
-🔹 <b>Zero-downtime deployment of ML services</b>
+  <img src="https://github-profile-trophy.vercel.app/?username=ronitmaheshwari05&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<h2 style="font-size:38px;">🏎️ Why AI + Formula 1?</h2>
+<h2 align="center">🧠 About Me</h2>
 
-<p style="font-size:26px; line-height:2;">
-🔹 Telemetry & sensor streams<br>
-🔹 Tire & temperature modeling<br>
-🔹 Weather & race strategy<br>
-🔹 Driver performance analytics
-</p>
-
-<p style="font-size:26px; line-height:2;">
-Machine Learning enables:
-</p>
-
-<p style="font-size:26px; line-height:2;">
-🔹 Strategy optimization<br>
-🔹 Performance prediction<br>
-🔹 Predictive maintenance<br>
-🔹 Real-time race decisions
+<p align="center">
+🎓 CSE (AI & ML) Student <br>
+🤖 Machine Learning & Deep Learning Enthusiast <br>
+🚀 Building real-world AI projects <br>
+☁️ Exploring AWS Cloud & MLOps <br>
+💻 Practicing DSA
 </p>
 
 ---
 
-<h2 style="font-size:38px;">🎯 Long-Term Vision</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-<p style="font-size:26px; line-height:2;">
-✅ Become a World-Class ML Engineer<br>
-✅ Master Production-grade MLOps<br>
-✅ Work on High-speed AI Systems in Motorsport<br>
-✅ Join a Formula 1 Team as an AI Engineer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,tensorflow,sklearn,pandas,numpy,git,github" />
+</p>
+
+<p align="center">
+<strong>Programming:</strong> Python • C++ • C • Rust <br>
+<strong>ML & AI:</strong> Supervised Learning • Unsupervised Learning • Feature Engineering • Model Evaluation <br>
+<strong>Frameworks:</strong> TensorFlow • Scikit-learn • Streamlit • Gradio <br>
+<strong>Libraries:</strong> Pandas • NumPy • Matplotlib <br>
+<strong>Core Concepts:</strong> DSA • OOP • Time & Space Complexity • Deep Learning <br>
+<strong>Tools:</strong> Git • GitHub • CLI
 </p>
 
 ---
 
-<h2 style="font-size:38px;">📄 Resume</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p>
-<a href="https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk">
-<b>View My Resume</b>
-</a>
+<p align="center">
+🏎️ F1 Race Data Analysis <br>
+📊 Final Marks Prediction <br>
+🎨 Stable Diffusion Image Generation <br><br>
+✨ More projects coming soon...
 </p>
 
 ---
 
-<h2 style="font-size:38px;">📫 Connect With Me</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p>
-<a href="mailto:ronitmaheshwari6@gmail.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="65"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="65"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmaheshwari05&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<p><b>⚡ “Blending AI, speed, and data to chase my Formula 1 dream.” 🏁</b></p>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ronitmaheshwari05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitmaheshwari05&theme=tokyo-night" />
+</p>
+
+---
+
+<h2 align="center">⚡ Activity Overview</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronitmaheshwari05&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronitmaheshwari05&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronitmaheshwari05&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronitmaheshwari05&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronitmaheshwari05&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronitmaheshwari05/ronitmaheshwari05/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">🔥 Current Focus</h2>
+
+<p align="center">
+🧠 Deep Learning <br>
+⚡ DSA & Problem Solving <br>
+🚀 ML Deployment <br>
+☁️ AWS Cloud & MLOps
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ronitmaheshwari6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Building. Learning. Evolving — every single day.</i> ✨
+</p>
