@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronit Maheshwari</h1>
-<h3 align="center">AI/ML Engineer | Building Intelligent Systems</h3>
+<h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Deep+Learning;Python+Developer;Building+Projects" />
@@ -16,12 +16,10 @@
 ---
 
 ## 🛠️ Technical Arsenal
-**Languages:** Python, C++, C, Rust  
-**ML & AI:** Supervised Learning, Unsupervised Learning, Feature Engineering  
-**Frameworks:** TensorFlow, Scikit-learn, Streamlit, Gradio  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Core Concepts:** DSA, OOP, Time & Space Complexity, Deep Learning  
-**Tools:** Git, GitHub  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,tensorflow,sklearn,pandas,numpy,git,github" />
+</p>
 
 ---
 
@@ -34,13 +32,23 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronitmaheshwari05&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitmaheshwari05&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🤝 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ronit-maheshwari-6b0363306">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
