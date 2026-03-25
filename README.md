@@ -51,7 +51,8 @@
 ## 🎓 Education
 - JECRC University  
 - B.Tech in Computer Science Engineering (AI & ML – IBM)  
-- 2024 – Present  
+- 2024 – Present
+- Grade : 8.23/10
 
 ---
 
