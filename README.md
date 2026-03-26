@@ -31,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/huggingface" width="40"/>
-  <img src="https://cdn.simpleicons.org/mlflow" width="40"/>
 </p>
 
 <p align="center">
