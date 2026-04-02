@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering (CSE) Student  
 - 🤖 Focused on Machine Learning & MLOps  
-- 🧠 Interested in Deep Learning & Computer Vision  
+- 🧠 Interested in Deep Learning  
 - 🏎️ Dream: AI / Data Engineer in Formula 1  
 - 📊 Passionate about Telemetry & Performance Optimization  
 - ☁️ Exploring Cloud, DevOps & Scalable AI Systems  
