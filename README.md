@@ -24,7 +24,7 @@
 ## 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,sklearn,git,github,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,sklearn,git,github,gcp,azure,postgreSQL,mySQL" />
 </p>
 
 <p align="center">
