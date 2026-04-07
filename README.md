@@ -24,7 +24,7 @@
 ## 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,sklearn,git,github,gcp,azure,postgreSQL,mySQL" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,sklearn,git,github,gcp,azure,postgres,mysql,mongodb" />
 </p>
 
 <p align="center">
@@ -50,8 +50,8 @@
 ## 🎓 Education
 - JECRC University  
 - B.Tech in Computer Science Engineering (AI & ML – IBM)  
-- 2024 – Present
-- Grade : 8.23/10
+- 2024 – Present  
+- Grade : 8.23/10  
 
 ---
 
@@ -69,9 +69,6 @@
 - Hugging Face (Model Deployment)  
 
 ---
-
-
-
 
 ## 📈 Contribution Activity
 
