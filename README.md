@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronit Maheshwari</h1>
+<h1 align="center">Hi 👋, I'm Ronit Maheshwari </h1>
 <h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
