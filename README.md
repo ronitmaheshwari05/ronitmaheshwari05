@@ -119,59 +119,20 @@ class RonitMaheshwari:
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### 💻 Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-</div>
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend & APIs
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=postman&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-</div>
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ Databases
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-
-</div>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
 
 ---
 
 ### 🤖 AI · ML · Generative AI
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-<div align="center">
+<br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<!-- HuggingFace, LangChain, OpenAI — not in skillicons, using clean custom badges -->
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Diffusers](https://img.shields.io/badge/Diffusers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
-
-</div>
 
 ```
  LLMs & Prompting   ██████████████░░  Advanced
@@ -183,17 +144,26 @@ class RonitMaheshwari:
 
 ---
 
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" />
+
+---
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<br/>
+
+![Neon](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+---
+
 ### ☁️ Cloud · DevOps · MLOps
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,github,githubactions&theme=dark" />
 
-<div align="center">
+<br/>
 
-| Platform | Tool | Purpose |
-|:---:|:---:|:---:|
-| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Cloud Infrastructure |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Containerization & Orchestration |
-| ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | MLOps & CI/CD |
-
-</div>
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
