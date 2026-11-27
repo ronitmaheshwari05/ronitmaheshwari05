@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝       ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+GenAI+%7C+MLOps+%7C+Scalable+Systems;Building+LLM+Pipelines+from+Scratch+to+Production;B.Tech+CSE+(AI+%26+ML)+%40+JECRC+University;Open+to+AI%2FML+Internships+%26+Research+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+GenAI+%7C+MLOps+%7C+Scalable+Backend+Systems;Architecting+LLM+Pipelines+from+Concept+to+Production;Pursuing+B.Tech+CSE+(AI+%26+ML)+at+JECRC+University;Seeking+AI%2FML+Internships+and+Research+Opportunities" />
 
 <br/>
 
