@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Ronit Maheshwari - I build AI and Backend Systems" />
+# Ronit Maheshwari
+
+**I build AI & Backend Systems**
 
 </div>
 
@@ -77,5 +79,4 @@ Also: Neon
 **JECRC University, Jaipur** · B.Tech CSE (AI & ML, IBM Track) · CGPA 8.33/10
 
 **Certification:** MLOps Specialization, Duke University (Coursera) · *Completed*
-
-<img src="./footer.svg" width="100%" alt="Servers, a neural network and drifting clouds" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="" />
