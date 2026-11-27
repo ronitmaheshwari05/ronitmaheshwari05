@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ronit%20Maheshwari&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Ronit Maheshwari" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+and+MLOps;Building+Scalable+Systems;B.Tech+CSE+(AI+%26+ML)+Student" alt="Typing intro" />
+<img src="./banner.svg" width="100%" alt="Ronit Maheshwari - I build AI and Backend Systems" />
 
 </div>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-maheshwari-6b0363306)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ronitmaheshwari6@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00875A?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk)
+
+</div>
 
 ---
 
 ## About
 
+- Building AI and backend systems
 - Designing LLM pipelines and RAG architectures
 - Learning backend engineering with FastAPI for AI deployment
 - Exploring MLOps with MLflow, Docker and GitHub Actions
@@ -76,4 +78,4 @@ Also: Neon
 
 **Certification:** MLOps Specialization, Duke University (Coursera) · *Completed*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" alt="" />
+<img src="./footer.svg" width="100%" alt="Servers, a neural network and drifting clouds" />
