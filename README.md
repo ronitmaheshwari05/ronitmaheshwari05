@@ -15,7 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronit--maheshwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-maheshwari-6b0363306)
 [![Gmail](https://img.shields.io/badge/Gmail-ronitmaheshwari6-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitmaheshwari6@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-00C896?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk)
 [![Profile Views](https://komarev.com/ghpvc/?username=ronitmaheshwari05&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS)](https://github.com/ronitmaheshwari05)
 
 </div>
@@ -217,7 +216,6 @@ Next   🎯  Production MLOps pipeline: registry → monitoring → deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronit-maheshwari-6b0363306)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail)](mailto:ronitmaheshwari6@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-00C896?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Ft075b8MfC7IjxVpUDnfqDfMMSS2Vzvs/view?usp=drivesdk)
 
 <br/>
 
