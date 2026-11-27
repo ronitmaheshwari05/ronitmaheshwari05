@@ -47,7 +47,7 @@ class RonitMaheshwari:
             "ai_ml"      : ["TensorFlow", "HuggingFace", "LLMs", "RAG", "Computer Vision"],
             "backend"    : ["FastAPI", "Node.js", "REST APIs"],
             "databases"  : ["PostgreSQL (Neon)", "MySQL", "MongoDB"],
-            "cloud_devops": ["GCP", "Azure", "Docker", "Kubernetes", "GitHub Actions", "MLflow"],
+            "cloud_devops": ["GCP", "AWS", "Docker", "Kubernetes", "GitHub Actions", "MLflow"],
         }
 ```
 
